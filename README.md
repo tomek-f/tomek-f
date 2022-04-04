@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tomek-f
-- xD
+👋 Hi!
 
 <!---
 tomek-f/tomek-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
