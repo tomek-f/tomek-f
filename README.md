@@ -6,8 +6,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-f&theme=gotham&hide_border=true)
 --->
 
+<!---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomek-f&theme=gotham&count_private=true&hide_border=true)](https://www.youtube.com/watch?v=jLXTBbMRxK8)
-
+--->
 
 
 <!---
