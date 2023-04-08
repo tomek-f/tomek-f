@@ -1,4 +1,6 @@
+<!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomek-f&theme=gotham&hide_border=true)](https://www.youtube.com/watch?v=KaOC9danxNo)
+--->
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-f&theme=gotham&hide_border=true)
