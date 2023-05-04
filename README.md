@@ -10,7 +10,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tomek-f&theme=gotham&count_private=true&hide_border=true)](https://www.youtube.com/watch?v=jLXTBbMRxK8)
 --->
 
-![open source](https://tomekf.pl/open-source.jpg)
+<p align="center">
+ <img src="https://tomekf.pl/open-source.jpg" />
+</p>
 
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomek-f&theme=gotham&hide_border=true)](https://git.io/streak-stats)
