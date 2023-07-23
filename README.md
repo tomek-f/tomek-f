@@ -11,7 +11,7 @@
 --->
 
 <p align="center">
- <img src="https://tomekf.pl/open-source.jpg" />
+ <img src="https://tomekf.pl/open-source.jpg" width="100%" height="auto" />
 </p>
 
 <!---
