@@ -11,7 +11,7 @@
 --->
 
 <p align="center">
- <a href="https://tomekf.pl/" target="_blank">
+ <a href="https://tomekf.pl/">
   <img src="https://tomekf.pl/open-source.jpg" />
  </a>
 </p>
